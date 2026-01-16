@@ -12,8 +12,8 @@
 
 <div align="left">
   <ul>
-    <li> I'm current acting as a research assistant in Databases area </li>
-    <li> Currently learning about Big Data Systems and Data Engineer field. </li>
+    <li> I'm current acting as a research assistant in Deep Learning area </li>
+    <!-- <li> Currently learning about Big Data Systems and Data Engineer field. </li> -->
     <li> Already performed a UI/UX research as an assistant. </li>
   </ul>
 </div>
